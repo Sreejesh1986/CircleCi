@@ -1,0 +1,23 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "sample circleci",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreejesh1986/CircleCi.git"
+  },
+  "author": "sreejesh.m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreejesh1986/CircleCi/issues"
+  },
+  "homepage": "https://github.com/Sreejesh1986/CircleCi#readme"
+}
