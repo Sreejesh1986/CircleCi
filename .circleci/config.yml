@@ -19,7 +19,6 @@ jobs:
     steps:
       - checkout
       - run: npm install
-      - run: node app.js
-      - run: npm test
+      - run: npm test 
 
 
